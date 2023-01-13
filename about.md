@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About
+title: 怀念时光-About
 ---
 # About page
 
